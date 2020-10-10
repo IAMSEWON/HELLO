@@ -5,7 +5,7 @@
 
 _진짜 개발자가 되자!_
 
-<img style="backgroud-color:black" height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/java.svg" />
+<img background-color="black" height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/java.svg" />
 
 
 ![Sewon's github stats](https://github-readme-stats.vercel.app/api?username=IAMSEWON&show_icons=true)
