@@ -2,7 +2,7 @@
 ### 김세원입니다
 ---
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IAMSEWON&theme=vue&show_icons=true>
+![Sewon's github stats](https://github-readme-stats.vercel.app/api?username=IAMSEWON&show_icons=true)
 
 <!--
 **IAMSEWON/IAMSEWON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
