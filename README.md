@@ -8,7 +8,6 @@ _진짜 개발자가 되자!_
   <img background-color="black" style="margin-right:5px;" height="15" width="15" src="https://unpkg.com/simple-icons@v3/icons/java.svg" />
   <img background-color="black" style="margin-right:5px" height="15" width="15" src="https://unpkg.com/simple-icons@v3/icons/node-dot-js.svg" />
   <img background-color="black" style="margin-right:5px;background-color:#61DAFB;" height="15" width="15" src="https://unpkg.com/simple-icons@v3/icons/react.svg" />
-  <img background-color="black" style="margin-right:5px" height="15" width="15" src="https://unpkg.com/simple-icons@v3/icons/spring.svg" />
+  <img background-color="black" style="margin-right:5px" height="15" width="15" src="https://unpkg.com/simple-icons@v3/icons/spring.svg" />  
 </div>
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=red&link=mailto:i3brooooo@gmail.com)](mailto:i3brooooo@gmail.com)
-![Sewon's github stats](https://github-readme-stats.vercel.app/api?username=IAMSEWON&show_icons=true)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
