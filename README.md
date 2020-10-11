@@ -2,8 +2,7 @@
 
 
 안녕 세계 ! 🌍
-
-_진짜 개발자가 되자!_
+_진짜 개발자가 되고싶은 개발자입니다._
 <div align="center">
   <img background-color="##F7DF1E" style="margin-right:5px;" height="15" width="15" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" />
   <img background-color="#007396" style="margin-right:5px;" height="15" width="15" src="https://unpkg.com/simple-icons@v3/icons/java.svg" />
